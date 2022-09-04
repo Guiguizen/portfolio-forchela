@@ -1,0 +1,26 @@
+
+API
+- HOME:
+api/home/div-topo
+api/home/div-informacao
+api/home/div-meio
+api/home/div-baixo
+api/home/footer
+
+- SERVICOS:
+api/servicos/div-topo
+api/servicos/produto
+
+- SOBRE NÓS:
+api/sobre-nos/div-topo
+api/sobre-nos/div-meio
+api/sobre-nos/div-baixo
+api/sobre-nos/card
+
+-ADMINISTRADOR: 
+admin/
+
+--------------------------------------
+
+Forchela.Atendimento@gmail.com
+Forchea123@
